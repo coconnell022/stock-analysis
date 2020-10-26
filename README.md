@@ -87,3 +87,6 @@ Refactoring the code took away the need for nested loops to be included within t
 
 - In this specific stock analysis, refactoring did not provide much clarity in the overall code structure. Although the amount of time it takes to run the code was slightly reduced from 0.63 seconds to 0.12, I do not think that refactoring benefited this analysis. Unfortunately, after refactoring, there are still the same number of lines within the code and it is not necessarily easier for users to understand. In the future if more years of data were to be added or stocks outside of Green Energy were to be analyzed, then refactoring would be worth it. 
 
+
+      Caroline O'Connell
+      October 4th, 2020
